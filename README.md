@@ -19,7 +19,7 @@ This project analyzes user behavior on social media platforms using Python, pand
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/aryan999444/social-media-user-analysis.git 
    cd <repo-name>
    ```
 2. Install dependencies:
@@ -59,5 +59,6 @@ This project analyzes user behavior on social media platforms using Python, pand
 This project is for educational purposes.
 
 ---
+
 
 *Feel free to contribute or raise issues!*
